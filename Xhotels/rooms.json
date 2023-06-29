@@ -1,0 +1,30 @@
+[
+  {
+    "Number": 101,
+    "RoomTypeId": 1,
+    "PricePerNight": 40.5,
+    "Floor": 1,
+    "NumberOfBeds": 1
+  },
+  {
+    "Number": 102,
+    "RoomTypeId": 2,
+    "PricePerNight": 80.5,
+    "Floor": 1,
+    "NumberOfBeds": 2
+  },
+  {
+    "Number": 201,
+    "RoomTypeId": 1,
+    "PricePerNight": 50.5,
+    "Floor": 2,
+    "NumberOfBeds": 2
+  },
+  {
+    "Number": 303,
+    "RoomTypeId": 3,
+    "PricePerNight": 130.5,
+    "Floor": 3,
+    "NumberOfBeds": 2
+  }
+]
